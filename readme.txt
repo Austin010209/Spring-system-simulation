@@ -1,7 +1,7 @@
 This system simulates a system of spring forces using Forward Euler, Midpoint Method, Modified Midpoint Method, RK4 Method, Symplectic Euler, Backward Euler methods.
 
 
-The file is saved in plain txt.
+The file system.ptcls is saved in plain txt.
 
 The movie is located at video.mp4.
 
